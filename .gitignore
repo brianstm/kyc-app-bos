@@ -1,0 +1,11 @@
+analysis1.py
+analysis2.py
+analysis3.py
+analysis4.py
+analysis5.py
+kyc_check.py
+.env
+/test_data
+/plots
+/kyc-check-app/node_modules
+.DS_Store
